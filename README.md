@@ -1,2 +1,2 @@
 # Supply-Chain-Performance-Analysis
-Analyses the delays and Damaged rate for a business
+Analyzes the Delays and Damaged rate for a business and thereafter reports the recommendations for better performance.
